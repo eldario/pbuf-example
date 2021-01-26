@@ -9,6 +9,6 @@ require (
 	github.com/golang/protobuf v1.4.3
 	github.com/prometheus/client_golang v1.9.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
-	google.golang.org/grpc v1.33.0
+	google.golang.org/grpc v1.35.0
 	google.golang.org/protobuf v1.25.0
 )
